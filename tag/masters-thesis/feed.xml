@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="/blog/tag/masters-thesis/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/blog/" rel="alternate" type="text/html" />
+  <updated>2020-05-18T23:29:40+00:00</updated>
+  <id>/blog/tag/masters-thesis/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Jan Laermann | </title>
+  
+
+  
+    <subtitle>Deep Learning Engineer - Personal Blog</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Achieving Generalizable Robustness of Deep Neural Networks by Stability Training</title>
+      <link href="/blog/stability-paper" rel="alternate" type="text/html" title="Achieving Generalizable Robustness of Deep Neural Networks by Stability Training" />
+      <published>2019-06-03T10:00:00+00:00</published>
+      <updated>2019-06-03T10:00:00+00:00</updated>
+      <id>/blog/stability-paper</id>
+      <content type="html" xml:base="/blog/stability-paper">&lt;p&gt;We study the recently introduced stability training as a general-purpose method to increase the robustness of deep neural networks against input perturbations. In particular, we explore its use as an alternative to data augmentation and validate its performance against a number of distortion types and transformations including adversarial examples. In our image classification experiments using ImageNet data stability training performs on a par or even outperforms data augmentation for specific transformations, while consistently offering improved robustness against a broader range of distortion strengths and types unseen during training, a considerably smaller hyperparameter dependence and less potentially negative side effects compared to data augmentation. This work was first documented in my &lt;a href=&quot;assets/Master_Thesis.pdf&quot;&gt;Master’s Thesis&lt;/a&gt; and led to a paper on the German Conference on Pattern Recognition &lt;a href=&quot;https://arxiv.org/abs/1906.00735&quot;&gt;arXiv link&lt;/a&gt;.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Jan Laermann</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Publications" />
+      
+        <category term="Master's Thesis" />
+      
+
+      
+        <summary type="html">We study the recently introduced stability training as a general-purpose method to increase the robustness of deep neural networks against input perturbations. In particular, we explore its use as an alternative to data augmentation and validate its performance against a number of distortion types and transformations including adversarial examples. In our image classification experiments using ImageNet data stability training performs on a par or even outperforms data augmentation for specific transformations, while consistently offering improved robustness against a broader range of distortion strengths and types unseen during training, a considerably smaller hyperparameter dependence and less potentially negative side effects compared to data augmentation. This work was first documented in my Master’s Thesis and led to a paper on the German Conference on Pattern Recognition arXiv link.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
