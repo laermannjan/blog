@@ -1,0 +1,10 @@
+ghost:
+  username: jan
+  name: Jan Laermann
+  url_full: https://www.laermann.dev
+  url: laermann.dev
+  bio: Deep Learning Engineer from Berlin, Germany
+  picture: False
+  facebook: False
+  twitter: False
+  cover: False
