@@ -3,15 +3,9 @@ layout: page
 current: about
 title: About
 navigation: true
-logo: 'assets/images/ghost.png'
+logo: False
 class: page-template
 subclass: 'post page'
 ---
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
-
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
-
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
-
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+I'm a Software Engineer with a strong focus on Deep Learning. I completed my Master's in Computer Science, Intelligent Systems at [Technical University Berlin](https://www.ml.tu-berlin.de), while working as a research assistant at [Fraunhofer HHI](https://www.hhi.fraunhofer.de/en.html). In my thesis, I explored a novel method to achieve general prediction stability of convolutional neural networks across various input distortions. Previously, I worked on relation extraction from open social media data at [DFKI](https://www.dfki.de/en/web). During my studies, I also worked at [IBM](https://www.ibm.com) and as a freelancer for different clients, where I developed, migrated, and maintained various machine learning compontents. I'm interested in applying machine learning to solve meaningful problems.

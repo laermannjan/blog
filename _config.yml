@@ -9,12 +9,12 @@ words_per_minute: 200
 baseurl: /blog/
 
 # Website info
-title: Jan Laermann - Deep Learning Engineer
-description: Jan Laermann - Deep Learning Engineer - Personal Blog
+title: Jan Laermann
+description: Deep Learning Engineer - Personal Blog
 cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
+logo: False
+logo_dark: False
+favicon: False
 CNAME: #add cname for website to be created
 
 # Social info
@@ -30,7 +30,7 @@ disqus: False
 disqus_shortname: False # replace with your disqus username
 
 # Google Analytics
-google_analytics: False# replace with your GA tracking identifier
+google_analytics: False # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
