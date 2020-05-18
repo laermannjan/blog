@@ -15,7 +15,7 @@ cover: assets/images/blog-cover.jpg
 logo: False
 logo_dark: False
 favicon: False
-CNAME: laermann.dev #add cname for website to be created
+CNAME: #add cname for website to be created
 
 # Social info
 navigation: False # show the navbar links
