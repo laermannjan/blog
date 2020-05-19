@@ -6,7 +6,7 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /blog/
+baseurl: /
 
 # Website info
 title: Jan Laermann
@@ -14,7 +14,7 @@ description: Deep Learning Engineer - Personal Blog
 cover: assets/images/blog-cover.jpg
 logo: False
 logo_dark: False
-favicon: False
+favicon: assets/images/favicon.png
 CNAME: laermann.dev #add cname for website to be created
 
 # Social info
